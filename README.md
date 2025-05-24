@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio <br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
+  <a href="https://soumyajit.vercel.app/" target="_blank">Aditya</a>
 </h2>
 
 
